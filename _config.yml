@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
 
 title: [Jonathan Alvarez]
+description: [A short description of your site's purpose]
+
 logo: [https://www.instagram.com/p/Br3YsJxhdTv/]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+Stylesheet
 
