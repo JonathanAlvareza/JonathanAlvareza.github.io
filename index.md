@@ -10,7 +10,7 @@ Minor: Computer Engineering
 
 ## Work Experience:
 
-**Information Technology - University of California, Santa Cruz**              Santa Cruz,CA
+**Information Technology - University of California, Santa Cruz**           Santa Cruz,CA
 *IT Support Center Technician*     				                                     2019 - Present    
  - Skillfully identify, troubleshoot, and resolve clients issues
  - Maintained our internal ticketing system to manage the flow of clients    
