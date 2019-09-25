@@ -4,7 +4,7 @@
 
 ## Education:
 
-**University of California,  Santa Cruz**			  		                    Santa Cruz, CA		
+**University of California,  Santa Cruz**			  		                   Santa Cruz, CA		
 Bachelors of Science: Computer Science					                        2018-Present
 Minor: Computer Engineering
 
