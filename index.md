@@ -9,7 +9,8 @@ Bachelors of Science: Computer Science					                        2018-Present
 Minor: Computer Engineering
 
 ## Work Experience:
-**Information Technology - University of California, Santa Cruz**           Santa Cruz,CA
+**Information Technology - University of California, Santa Cruz**           
+Santa Cruz,CA
 
 *IT Support Center Technician*     				                                     2019 - Present    
  - Skillfully identify, troubleshoot, and resolve clients issues
@@ -24,7 +25,7 @@ Minor: Computer Engineering
  - Consulted and upskilled clients on partner’s products: SONOS, Apple, AT&T, Android
 
 
-## Skills:
+## Skillset:
 
 |Skills | Description |
 | --- | --- |
