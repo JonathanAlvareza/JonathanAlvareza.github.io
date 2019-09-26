@@ -3,8 +3,9 @@
 
 
 ## Education:
-
+<pre>
 **University of California,  Santa Cruz**			  		                   Santa Cruz, CA		
+
 Bachelors of Science: Computer Science					                        2018-Present
 Minor: Computer Engineering
 
@@ -28,3 +29,5 @@ Minor: Computer Engineering
 | Proficent Languages Spoken | Spanish, English |
 | Pefered Computer Langauges | Python 3, Java, Verilog, MIPS  |
 | Misc. | Office suite (Word, Excel, Powerpoint, Project), Google Apps (Docs, Sheets, etc.) |
+
+</pre>
