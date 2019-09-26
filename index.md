@@ -25,7 +25,7 @@ Santa Cruz,CA
  - Consulted and upskilled clients on partner’s products: SONOS, Apple, AT&T, Android
 
 
-## Skillset:
+## Skillsets:
 
 |Skills | Description |
 | --- | --- |
