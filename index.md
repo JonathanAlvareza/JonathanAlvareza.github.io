@@ -10,9 +10,9 @@ Minor: Computer Engineering
 
 ## Work Experience:
 
-**Summer Anaylist** <pre>                                              </pre>New York City, NY
+**Summer Anaylist** New York City, NY
                    
-*Front End Developer*                                       July 2020 - August 2020
+*Front End Developer*                                       </br> July 2020 - August 2020
 - Used Agile methology when working with a team to build an API for our clients
 - Worked with angular to build various libraries, componets, and services
 - Embedding new techologies and code onto an existing code base
