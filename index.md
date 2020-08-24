@@ -4,7 +4,7 @@
 
 ## Education:
 
-**University of California,  Santa Cruz**		
+**University of California,  Santa Cruz**		<br />
 Santa Cruz, CA	<br/>
 September 2018 - Present <br/>
 Bachelors of Science: Computer Science	<br/>				                   
@@ -12,23 +12,28 @@ Minor: Computer Engineering <br/>
 
 ## Work Experience:
 
-**Summer Anaylist** New York City, NY
-                   
-*Front End Developer*                                     July 2020 - August 2020 <br />
+**BlackRock** <br />
+
+New York City, NY  <br />              
+*Front End Developer*   
+July 2020 - August 2020 <br />
 - Used Agile methology when working with a team to build an API for our clients
 - Worked with angular to build various libraries, componets, and services
 - Embedding new techologies and code onto an existing code base
 
-**Information Technology - University of California, Santa Cruz**           
-Santa Cruz,CA
+**Information Technology - University of California, Santa Cruz** <br />          
+Santa Cruz,CA <br />
 
-*IT Support Center Technician*     				                     June 2019 - September 2020    
+*IT Support Center Technician*  <br /> 
+June 2019 - September 2020 <br />   
  - Skillfully identify, troubleshoot, and resolve clients issues
  - Maintained our internal ticketing system to manage the flow of clients    
 
 
-**Enjoy Technology Inc.**                                 San Jose, CA	                                 
-*Technician*								                                      2017- 2018
+**Enjoy Technology Inc.** 
+ San Jose, CA	<br />
+ October 2017-  November 2018 <br />
+*Technician* <br />						                                      
 
  - Partnered with the creative team with improving our native iOS platform
  - Drove onboarding for new hires and ensured proficiency in company software and hardware
