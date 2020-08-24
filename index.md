@@ -1,18 +1,26 @@
 
-# Hello Welcome to my Website 
+# Hello welcome to my website 
 
 
 ## Education:
 
 **University of California,  Santa Cruz**			  		                   Santa Cruz, CA		
-Bachelors of Science: Computer Science					                        2018-Present
+Bachelors of Science: Computer Science					                   September 2018 - Present
 Minor: Computer Engineering
 
 ## Work Experience:
+
+**Summer Anaylist**                                               New York City, NY
+                   
+*Front End Developer*                                       July 2020 - August 2020
+- Used Agile methology when working with a team to build an API for our clients
+- Worked with angular to build various libraries, componets, and services
+- Embedding new techologies and code onto an existing code base
+
 **Information Technology - University of California, Santa Cruz**           
 Santa Cruz,CA
 
-*IT Support Center Technician*     				                                     2019 - Present    
+*IT Support Center Technician*     				                     June 2019 - September 2020    
  - Skillfully identify, troubleshoot, and resolve clients issues
  - Maintained our internal ticketing system to manage the flow of clients    
 
