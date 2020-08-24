@@ -5,9 +5,8 @@
 ## Education:
 
 **University of California,  Santa Cruz**		<br />
-Santa Cruz, CA	<br/>
 September 2018 - Present <br/>
-Bachelors of Science: Computer Science	<br/>				                   
+Bachelors of Science: Computer Science		                   
 Minor: Computer Engineering <br/>
 
 ## Work Experience:
